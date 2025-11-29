@@ -58,7 +58,7 @@ Dataset: **Breast Cancer Wisconsin (Diagnostic)**
   - `1 = Malignant`  
 
 <p align="center">
-  <img src="ԳԻՏ ՆԿարներ/dataset_sample.png" width="75%">
+  <img src="dataset_sample.png" width="75%">
 </p>
 
 ---
@@ -81,7 +81,7 @@ Dataset is fully complete.
 Using Pearson correlation matrix (>0.9):
 
 <p align="center">
-  <img src="ԳԻՏ ՆԿարներ/corellation_matrix.png" width="80%">
+  <img src="corellation_matrix.png" width="80%">
 </p>
 
 Final dataset:  
@@ -96,13 +96,13 @@ Final dataset:
 Malignant tumors show significantly larger radius, area, perimeter.
 
 <p align="center">
-  <img src="ԳԻՏ ՆԿարներ/histograms.png" width="90%">
+  <img src="histograms.png" width="90%">
 </p>
 
 ### ✔ Class balance
 
 <p align="center">
-  <img src="ԳԻՏ ՆԿարներ/class_balance.png" width="60%">
+  <img src="class_balance.png" width="60%">
 </p>
 
 ---
@@ -208,7 +208,7 @@ Actual ----------------------
 The top 10 most influential features:
 
 <p align="center">
-  <img src="ԳԻՏ ՆԿարներ/feature_importance.png" width="75%">
+  <img src="feature_importance.png" width="75%">
 </p>
 
 These align with medical literature:
